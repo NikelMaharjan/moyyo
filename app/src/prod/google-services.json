@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "525245623489",
+    "project_id": "moyyo-prod",
+    "storage_bucket": "moyyo-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525245623489:android:d64a2cddcaa9ce7f51f840",
+        "android_client_info": {
+          "package_name": "app.moyyo.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525245623489-9lj5ii96jl2i47sdhkr2gufm1ffaoevo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.moyyo.android",
+            "certificate_hash": "a78ec8f6bb6cc0616dd58879c447bade86fbd201"
+          }
+        },
+        {
+          "client_id": "525245623489-c7usskliprucq8pmf71btulb8tr5e7dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3u-NveaDT4lCLMcceOepiSrOhJ8UgoN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525245623489-c7usskliprucq8pmf71btulb8tr5e7dl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "525245623489-ibd839gbsoc0cme86r18a8m527goi0sn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.moyyo.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525245623489:android:63adb8cd4c3b18d551f840",
+        "android_client_info": {
+          "package_name": "com.moyyo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525245623489-b4akprabp3emc4u60gov3f0qats1shoj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moyyo.app",
+            "certificate_hash": "b5de576f10173eafdbdd085787c955be8e50edb2"
+          }
+        },
+        {
+          "client_id": "525245623489-r7mkeegk1irceqob1crnhcalp0p6t9sn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moyyo.app",
+            "certificate_hash": "a78ec8f6bb6cc0616dd58879c447bade86fbd201"
+          }
+        },
+        {
+          "client_id": "525245623489-c7usskliprucq8pmf71btulb8tr5e7dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3u-NveaDT4lCLMcceOepiSrOhJ8UgoN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525245623489-c7usskliprucq8pmf71btulb8tr5e7dl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "525245623489-ibd839gbsoc0cme86r18a8m527goi0sn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.moyyo.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

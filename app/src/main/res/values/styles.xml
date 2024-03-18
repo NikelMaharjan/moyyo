@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- <string name="app_name">Moyyo</string> -->
+    <!-- for com.moyyo.app.dev -->
+    <!-- <string name="facebook_app_id">1749089228907632</string>
+    <string name="fb_login_protocol_scheme">fb1749089228907632</string>
+    <string name="facebook_client_token">81b98b0fbd3a15c373a9588ed021a0df</string> -->
+    <!-- for uat -->
+    <!-- <string name="facebook_app_id">825916339292727</string>
+    <string name="fb_login_protocol_scheme">fb825916339292727</string>
+    <string name="facebook_client_token">e519f8c95a2e2f95ce556aa3b82ba1e4</string> -->
+    <!-- for prod -->
+    <!-- <string name="facebook_app_id">"902386021486530"</string>
+    <string name="fb_login_protocol_scheme">fb902386021486530</string>
+    <string name="facebook_client_token">29180e2d0becfd77c5cf10652d46f5c9</string> -->
+    
+    <string name="facebook_app_id">@string/facebook_app</string>
+    <string name="fb_login_protocol_scheme">@string/fb_login_protocol</string>
+    <string name="facebook_client_token">@string/facebook_client</string>
+
+    <!-- Theme applied to the Android Window while the process is starting when the OS's Dark Mode setting is off -->
+    <style name="LaunchTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Show a splash screen on the activity. Automatically removed when
+             the Flutter engine draws its first frame -->
+        <item name="android:windowBackground">@drawable/launch_background</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/launch_background</item> 
+        <item name="android:windowSplashScreenBackground">@color/green</item>
+    </style>
+         <!--  Theme applied to the Android Window as soon as the process has started.
+         This theme determines the color of the Android Window while your
+         Flutter UI initializes, as well as behind your Flutter UI while its
+         running.
+
+         This Theme is only used starting with V2 of Flutter's Android embedding. -->
+    <style name="NormalTheme" parent="Theme.MaterialComponents">
+        <item name="android:windowBackground">?android:colorBackground</item>
+    </style>
+</resources>

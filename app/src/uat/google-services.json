@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "906746323807",
+    "project_id": "fonkka-uat",
+    "storage_bucket": "fonkka-uat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906746323807:android:fa4f532520300d0b004cea",
+        "android_client_info": {
+          "package_name": "app.moyyo.android.uat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906746323807-39nr3un1hntl1uf3dj59d4fft8in28ev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.moyyo.android.uat",
+            "certificate_hash": "a78ec8f6bb6cc0616dd58879c447bade86fbd201"
+          }
+        },
+        {
+          "client_id": "906746323807-9pf31g3te4t9e5ig7bm7905aju0p1mmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbBIyAxRuTLtRiAn7LHGzdWKvWTy4ytoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906746323807-9pf31g3te4t9e5ig7bm7905aju0p1mmr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "906746323807-0h6hb3ivs3lcds3p843jjjr68ueurldd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.moyyo.app.uat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906746323807:android:957fc91158b20756004cea",
+        "android_client_info": {
+          "package_name": "com.moyyo.app.uat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906746323807-u6mbepaq97g75bbtkssrqiibhlrh7vq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moyyo.app.uat",
+            "certificate_hash": "a78ec8f6bb6cc0616dd58879c447bade86fbd201"
+          }
+        },
+        {
+          "client_id": "906746323807-9pf31g3te4t9e5ig7bm7905aju0p1mmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbBIyAxRuTLtRiAn7LHGzdWKvWTy4ytoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906746323807-9pf31g3te4t9e5ig7bm7905aju0p1mmr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "906746323807-0h6hb3ivs3lcds3p843jjjr68ueurldd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.moyyo.app.uat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906746323807:android:27125dde59067048004cea",
+        "android_client_info": {
+          "package_name": "fonkka.Dating.Android.uat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906746323807-4lj1ndagkgah3fbsvnmrdohtrv4bd3b7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fonkka.Dating.Android.uat",
+            "certificate_hash": "a78ec8f6bb6cc0616dd58879c447bade86fbd201"
+          }
+        },
+        {
+          "client_id": "906746323807-9pf31g3te4t9e5ig7bm7905aju0p1mmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbBIyAxRuTLtRiAn7LHGzdWKvWTy4ytoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906746323807-9pf31g3te4t9e5ig7bm7905aju0p1mmr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "906746323807-0h6hb3ivs3lcds3p843jjjr68ueurldd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.moyyo.app.uat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

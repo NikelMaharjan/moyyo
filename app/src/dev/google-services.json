@@ -1,0 +1,186 @@
+{
+  "project_info": {
+    "project_number": "270589344612",
+    "project_id": "fonkka-dev",
+    "storage_bucket": "fonkka-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270589344612:android:45912b7f61c99553205871",
+        "android_client_info": {
+          "package_name": "app.moyyo.android.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270589344612-ihac91r31rtraooorchptv1lempbhp8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.moyyo.android.dev",
+            "certificate_hash": "b5de576f10173eafdbdd085787c955be8e50edb2"
+          }
+        },
+        {
+          "client_id": "270589344612-jg3tbi641kt0o5n7497kdonmli1iksur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.moyyo.android.dev",
+            "certificate_hash": "a78ec8f6bb6cc0616dd58879c447bade86fbd201"
+          }
+        },
+        {
+          "client_id": "270589344612-7qscvo7lmcv9g75d4v359hmeqenuehe8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4O38efg7Vc4oDd7oPl8EInnoBqK839UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270589344612-7qscvo7lmcv9g75d4v359hmeqenuehe8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "270589344612-5kv58v34euomasup7k6sqvgmo72ffvhs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fonkka"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270589344612:android:abf0c30aa30e5171205871",
+        "android_client_info": {
+          "package_name": "com.moyyo.app.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270589344612-vk9k3g0dpkbqleapf5gbk3g9jnutsv2t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moyyo.app.dev",
+            "certificate_hash": "a78ec8f6bb6cc0616dd58879c447bade86fbd201"
+          }
+        },
+        {
+          "client_id": "270589344612-7qscvo7lmcv9g75d4v359hmeqenuehe8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4O38efg7Vc4oDd7oPl8EInnoBqK839UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270589344612-7qscvo7lmcv9g75d4v359hmeqenuehe8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "270589344612-5kv58v34euomasup7k6sqvgmo72ffvhs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fonkka"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270589344612:android:f11e806d2ed8a145205871",
+        "android_client_info": {
+          "package_name": "com.moyyo.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270589344612-7qscvo7lmcv9g75d4v359hmeqenuehe8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4O38efg7Vc4oDd7oPl8EInnoBqK839UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270589344612-7qscvo7lmcv9g75d4v359hmeqenuehe8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "270589344612-5kv58v34euomasup7k6sqvgmo72ffvhs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fonkka"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270589344612:android:dce294427cf377d9205871",
+        "android_client_info": {
+          "package_name": "fonkka.Dating.Android.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270589344612-r42pum8qm3metjnic6b0ch3nj222uji6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fonkka.Dating.Android.dev",
+            "certificate_hash": "a78ec8f6bb6cc0616dd58879c447bade86fbd201"
+          }
+        },
+        {
+          "client_id": "270589344612-7qscvo7lmcv9g75d4v359hmeqenuehe8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4O38efg7Vc4oDd7oPl8EInnoBqK839UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270589344612-7qscvo7lmcv9g75d4v359hmeqenuehe8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "270589344612-5kv58v34euomasup7k6sqvgmo72ffvhs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fonkka"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
